@@ -12,4 +12,4 @@ Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat desi
 
 Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
 
-This is test edit by NKS on README.md
+This is test changes made by nks on readme.
